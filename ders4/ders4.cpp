@@ -58,6 +58,7 @@ int main(int argc, char const *argv[])
 	cout << matris[2][0] << "\t" << matris[2][1] << "\t" << matris[2][2] << endl;
 
 	int dizi4[10][10][10][100]; // 10x10x10x100 = 100000
+	
 
 	return 0;
 }
